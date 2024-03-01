@@ -6,57 +6,15 @@
     "categories": ["all", "media"]
   },
   {
-    "name": "BuzzFeed Quizzes",
-    "link": "https://buzzfeed.com/quizzes",
-    "image": "/assets/media/icons/buzzfeed.webp",
-    "categories": ["all", "media"]
-  },
-  {
-    "name": "Android",
-    "link": "https://now.gg/iframe/snippet?app_pkg=com.uncube.launcher3&partner=interstellar",
-    "image": "/assets/media/icons/android.webp",
-    "categories": ["all", "emu", "android"]
-  },
-  {
-    "name": "Temu",
-    "link": "https://temu.com",
-    "image": "/assets/media/icons/temu.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Character AI",
-    "link": "https://now.gg/iframe/snippet?app_pkg=ai.character.app&partner=interstellar",
-    "image": "/assets/media/icons/characterai.webp",
-    "categories": ["all", "emu", "android"]
-  },
-  {
-    "name": "Aptoide",
-    "link": "https://now.gg/iframe/snippet?app_pkg=com.aptoide.partners.nowgg.store&partner=interstellar",
-    "image": "/assets/media/icons/aptoide.webp",
-    "categories": ["all", "emu", "android"]
-  },
-  {
     "name": "Movie Web",
     "link": "https://movie-web.app",
     "image": "/assets/media/icons/movie-web.webp",
     "categories": ["all", "media", "stream"]
   },
   {
-    "name": "Scratch",
-    "link": "https://scratch.mit.edu",
-    "image": "/assets/media/icons/scratch.webp",
-    "categories": ["all", "social", "game", "media"]
-  },
-  {
     "name": "Chess.com",
     "link": "https://chess.com",
     "image": "/assets/media/icons/chess.webp",
-    "categories": ["all", "game"]
-  },
-  {
-    "name": "Cool Math Games",
-    "link": "https://coolmathgames.com",
-    "image": "/assets/media/icons/coolmath.webp",
     "categories": ["all", "game"]
   },
   {
@@ -66,33 +24,15 @@
     "categories": ["all", "social"]
   },
   {
-    "name": "DuckDuckGo",
-    "link": "https://start.duckduckgo.com/",
-    "image": "/assets/media/icons/duckduckgo.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "ESPN",
     "link": "https://www.espn.com/watch/",
     "image": "/assets/media/icons/espn.webp",
     "categories": ["all", "media"]
   },
   {
-    "name": "Fifa Rosters",
-    "link": "https://fifarosters.com/",
-    "image": "/assets/media/icons/fifa.webp",
-    "categories": ["all", "media"]
-  },
-  {
     "name": "Firefox Web Browser",
     "link": "https://replit.com/@cooleddie001/Firefox-Legacy?v=1",
     "image": "/assets/media/icons/firefox.webp",
-    "categories": ["all", "media"]
-  },
-  {
-    "name": "Flix HQ",
-    "link": "https://flixhq.to",
-    "image": "/assets/media/icons/flixhq.webp",
     "categories": ["all", "media"]
   },
   {
@@ -120,12 +60,6 @@
     "categories": ["all", "stream"]
   },
   {
-    "name": "Messenger",
-    "link": "https://messenger.com/",
-    "image": "/assets/media/icons/messenger.webp",
-    "categories": ["all", "social", "message"]
-  },
-  {
     "name": "Paramount Plus",
     "link": "https://paramountplus.com",
     "image": "/assets/media/icons/paramount.webp",
@@ -135,12 +69,6 @@
     "name": "Pinterest",
     "link": "https://pinterest.com",
     "image": "/assets/media/icons/pinterest.webp",
-    "categories": ["all", "media"]
-  },
-  {
-    "name": "Pixlr",
-    "link": "https://pixlr.com/",
-    "image": "/assets/media/icons/pix.webp",
     "categories": ["all", "media"]
   },
   {
@@ -164,22 +92,10 @@
     "error": true
   },
   {
-    "name": "Telegram",
-    "link": "https://web.telegram.org/",
-    "image": "/assets/media/icons/telegram.webp",
-    "categories": ["all", "social"]
-  },
-  {
     "name": "Tiktok",
     "link": "https://tiktok.com",
     "image": "/assets/media/icons/tiktok.webp",
     "categories": ["all", "social", "media"]
-  },
-  {
-    "name": "Tumblr",
-    "link": "https://tumblr.com/",
-    "image": "/assets/media/icons/tumblr.webp",
-    "categories": ["all", "social"]
   },
   {
     "name": "Twitch",
@@ -194,12 +110,6 @@
     "categories": ["all", "social", "media"]
   },
   {
-    "name": "VS Code",
-    "link": "https://vscode.dev",
-    "image": "/assets/media/icons/vscode.webp",
-    "categories": ["all", "tool"]
-  },
-  {
     "name": "Y8 Games",
     "link": "https://y8.com/",
     "image": "/assets/media/icons/y8.webp",
@@ -210,18 +120,6 @@
     "link": "https://youtube.com",
     "image": "/assets/media/icons/yt.webp",
     "categories": ["all", "social", "stream", "media"]
-  },
-  {
-    "name": "Whatsapp",
-    "link": "https://web.whatsapp.com/",
-    "image": "/assets/media/icons/whatsapp.webp",
-    "categories": ["all", "message", "social"]
-  },
-  {
-    "name": "Wattpad",
-    "link": "https://wattpad.com/",
-    "image": "/assets/media/icons/wattpad.webp",
-    "categories": ["all", "social"]
   },
   {
     "name": "ChatGPT Clone",
@@ -235,12 +133,6 @@
     "image": "/assets/media/icons/discord.webp",
     "categories": ["all", "social"],
     "blank": "true"
-  },
-  {
-    "name": "HD Today",
-    "link": "https://hdtoday.tv",
-    "image": "/assets/media/icons/hd.webp",
-    "categories": ["all", "media", "stream"]
   },
   {
     "name": "Now.GG",
